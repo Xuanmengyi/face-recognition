@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / Close</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Inputfields-/-Search-/-Typed" transform="translate(-274.000000, -15.000000)" fill-rule="nonzero">
+            <g id="Icons-/-Clear" transform="translate(271.000000, 12.000000)">
+                <circle id="Oval" fill="#8686A5" opacity="0.56687128" cx="12" cy="12" r="9"></circle>
+                <path d="M16.0799506,15.5003006 C16.2400165,15.6603665 16.2400165,15.9198846 16.0799506,16.0799506 C15.9198846,16.2400165 15.6603665,16.2400165 15.5003006,16.0799506 L12,12.57965 L8.49969942,16.0799506 C8.3396335,16.2400165 8.08011536,16.2400165 7.92004944,16.0799506 C7.75998352,15.9198846 7.75998352,15.6603665 7.92004944,15.5003006 L11.42035,12 L7.92004944,8.49969942 C7.75998352,8.3396335 7.75998352,8.08011536 7.92004944,7.92004944 C8.08011536,7.75998352 8.3396335,7.75998352 8.49969942,7.92004944 L12,11.42035 L15.5003006,7.92004944 C15.6603665,7.75998352 15.9198846,7.75998352 16.0799506,7.92004944 C16.2400165,8.08011536 16.2400165,8.3396335 16.0799506,8.49969942 L12.57965,12 L16.0799506,15.5003006 Z" id="Path" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

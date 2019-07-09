@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="20px" viewBox="0 0 10 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / Close</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Navbar-/-With-Subtitle" transform="translate(-37.000000, -53.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="Icons-/-Back" transform="translate(30.000000, 51.000000)">
+                <path d="M8.34122976,12 L16.8372815,20.9958195 C17.0542395,21.2255397 17.0542395,21.5979897 16.8372815,21.8277099 C16.6203236,22.05743 16.2685653,22.05743 16.0516073,21.8277099 L7.16271845,12.4159452 C6.94576052,12.186225 6.94576052,11.813775 7.16271845,11.5840548 L16.0516073,2.17229013 C16.2685653,1.94256996 16.6203236,1.94256996 16.8372815,2.17229013 C17.0542395,2.4020103 17.0542395,2.77446029 16.8372815,3.00418046 L8.34122976,12 Z" id="Path-7"></path>
+            </g>
+        </g>
+    </g>
+</svg>
